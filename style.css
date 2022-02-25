@@ -247,6 +247,7 @@ a.article:hover {
     /* padding-top: 2%!important; */
     width: calc(100% - 250px);
     padding: 40px;
+	padding-top:20px!important;
     min-height: 100vh;
     transition: all 0.2s;
     margin-left: 250px;
